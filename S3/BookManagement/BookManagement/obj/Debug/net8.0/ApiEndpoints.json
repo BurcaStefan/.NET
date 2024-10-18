@@ -50,5 +50,31 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "BookManagement.Controllers.BooksController",
+    "Method": "DeleteBook",
+    "RelativePath": "api/v1/Books",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

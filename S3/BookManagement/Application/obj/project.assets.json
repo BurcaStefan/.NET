@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facultate\\.NET\\S3\\BookManagement\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Application\\Application.csproj",
+      "projectPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Application\\obj\\",
+      "outputPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -319,8 +319,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj"
+            "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultate\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
+    "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\obj\\",
+        "outputPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Facultate\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Facultate\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj"
+              "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Domain\\Domain.csproj"
               }
             }
           }

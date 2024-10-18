@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Domain.Repositories;
 using Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repositories
 {
@@ -19,9 +20,11 @@ namespace Infrastructure.Repositories
             return book.Id;
         }
 
-        public Task DeleteAsync(Guid id)
+        public async Task DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var book = await context.Books.FindAsync(id);
+            context.Books.Remove(book);
+            await context.SaveChangesAsync();
         }
 
         public Task<IEnumerable<Book>> GetAllAsync()

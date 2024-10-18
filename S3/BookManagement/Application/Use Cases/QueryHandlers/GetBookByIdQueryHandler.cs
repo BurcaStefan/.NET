@@ -8,17 +8,17 @@ namespace Application.Use_Cases.QueryHandlers
 {
     public class GetBookByIdQueryHandler : IRequestHandler<GetBookByIdQuery, BookDto>
     {
-        private readonly IBookRepository reporitory;
+        private readonly IBookRepository repository;
         private readonly IMapper mapper;
 
-        public GetBookByIdQueryHandler(IBookRepository reporitory, IMapper mapper)
+        public GetBookByIdQueryHandler(IBookRepository repository, IMapper mapper)
         {
-            this.reporitory = reporitory;
+            this.repository = repository;
             this.mapper = mapper;
         }
         public async Task<BookDto> Handle(GetBookByIdQuery request, CancellationToken cancellationToken)
         {
-            var book = await reporitory.GetByIdAsync(request.Id);
+            var book = await repository.GetByIdAsync(request.Id);
             //add maper
             //return new BookDto
             //{

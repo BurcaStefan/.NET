@@ -28,5 +28,11 @@ namespace BookManagement.Controllers
         {
             return await mediator.Send(query);
         }
+
+        [HttpDelete]
+        public async Task<ActionResult<Guid>> DeleteBook([FromQuery] DeleteBookByIdCommand command)
+        {
+            return await mediator.Send(command);
+        }
     }
 }

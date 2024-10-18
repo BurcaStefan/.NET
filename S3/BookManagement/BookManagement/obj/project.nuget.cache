@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Su9pSQkwEn8=",
+  "dgSpecHash": "erRIJbnuQHQ=",
   "success": true,
-  "projectFilePath": "D:\\Facultate\\.NET\\S3\\BookManagement\\BookManagement\\BookManagement.csproj",
+  "projectFilePath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\BookManagement\\BookManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

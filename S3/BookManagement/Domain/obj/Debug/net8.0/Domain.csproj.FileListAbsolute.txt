@@ -53,3 +53,15 @@ D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
 D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\A3S1\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
