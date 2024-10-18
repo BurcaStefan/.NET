@@ -79,6 +79,37 @@
   },
   {
     "ContainingType": "BookManagement.Controllers.BooksController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/v1/Books",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "command",
+        "Type": "Application.Use_Cases.Commands.UpdateBookCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookManagement.Controllers.BooksController",
     "Method": "GetBookById",
     "RelativePath": "api/v1/Books/{id}",
     "HttpMethod": "GET",

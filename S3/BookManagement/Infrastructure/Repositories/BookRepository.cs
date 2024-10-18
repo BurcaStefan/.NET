@@ -37,9 +37,10 @@ namespace Infrastructure.Repositories
             return await context.Books.FindAsync(id);
         }
 
-        public Task UpdateAsync(Book book)
+        public async Task UpdateAsync(Book book)
         {
-            throw new NotImplementedException();
+            context.Books.Update(book);
+            await context.SaveChangesAsync();
         }
     }
 }

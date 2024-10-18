@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\queryhandlers\\getallbookqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getallbookqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\queries\\getallbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getallbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\facultate\\a3s1\\.net\\s3\\bookmanagement\\application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
               "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T12:19:48.153Z",
               "IsPinned": true,
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
               "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T13:55:37.614Z",
               "IsPinned": true,
@@ -86,54 +86,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetBookByIdQuery.cs",
-              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
-              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
-              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:27:05.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetBookByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:29:54.516Z",
+              "WhenOpened": "2024-10-18T15:34:59.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GetAllBookQuery.cs",
-              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBookQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetAllBookQuery.cs",
-              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBookQuery.cs",
-              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetAllBookQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "CreateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:26:37.071Z",
+              "WhenOpened": "2024-10-18T15:34:46.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetAllBookQueryHandler.cs",
-              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBookQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetAllBookQueryHandler.cs",
-              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBookQueryHandler.cs",
-              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetAllBookQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:26:59.722Z",
+              "WhenOpened": "2024-10-18T15:34:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S3\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:34:31.974Z",
               "EditorCaption": ""
             }
           ]

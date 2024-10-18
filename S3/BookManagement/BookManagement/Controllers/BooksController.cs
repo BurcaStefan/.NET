@@ -42,5 +42,12 @@ namespace BookManagement.Controllers
         {
             return await mediator.Send(command);
         }
+
+        [HttpPut]
+        public async Task<ActionResult<Guid>> UpdateBook(Guid id, [FromBody] UpdateBookCommand command)
+        {
+            command.Id = id;
+            return await mediator.Send(command);
+        }
     }
 }
