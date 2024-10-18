@@ -1,0 +1,85 @@
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\folariu\source\repos\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate\.NET\S3\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

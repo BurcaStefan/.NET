@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\A3S1\\.NET\\S1\\Cursul1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F58F74-5378-4AC7-9FC2-E63D78A5DB45}|Cursul1\\Cursul1.csproj|d:\\facultate\\a3s1\\.net\\s1\\cursul1\\cursul1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F58F74-5378-4AC7-9FC2-E63D78A5DB45}|Cursul1\\Cursul1.csproj|solutionrelative:cursul1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultate\\A3S1\\.NET\\S1\\Cursul1\\Cursul1\\Program.cs",
+              "RelativeDocumentMoniker": "Cursul1\\Program.cs",
+              "ToolTip": "D:\\Facultate\\A3S1\\.NET\\S1\\Cursul1\\Cursul1\\Program.cs",
+              "RelativeToolTip": "Cursul1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:25:55.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

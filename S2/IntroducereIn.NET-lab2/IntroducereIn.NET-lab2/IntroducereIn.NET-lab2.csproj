@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>IntroducereIn.NET_lab2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\Business\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\Business\.editorconfig" />
+  </ItemGroup>
+
+</Project>

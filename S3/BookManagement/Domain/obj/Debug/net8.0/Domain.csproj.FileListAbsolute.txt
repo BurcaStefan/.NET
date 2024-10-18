@@ -1,0 +1,55 @@
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Stefan\Downloads\BookManagement\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\A3S1\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3 2.0\BookManagement\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\.NET\S3\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll

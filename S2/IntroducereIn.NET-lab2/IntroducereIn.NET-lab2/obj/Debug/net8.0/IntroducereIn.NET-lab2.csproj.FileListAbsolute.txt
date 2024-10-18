@@ -1,0 +1,14 @@
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\bin\Debug\net8.0\IntroducereIn.NET-lab2.exe
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\bin\Debug\net8.0\IntroducereIn.NET-lab2.deps.json
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\bin\Debug\net8.0\IntroducereIn.NET-lab2.runtimeconfig.json
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\bin\Debug\net8.0\IntroducereIn.NET-lab2.dll
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\bin\Debug\net8.0\IntroducereIn.NET-lab2.pdb
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.AssemblyInfoInputs.cache
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.AssemblyInfo.cs
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.csproj.CoreCompileInputs.cache
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.dll
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\refint\IntroducereIn.NET-lab2.dll
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.pdb
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\IntroducereIn.NET-lab2.genruntimeconfig.cache
+D:\Facultate\A3S1\.NET\S2\IntroducereIn.NET-lab2\IntroducereIn.NET-lab2\obj\Debug\net8.0\ref\IntroducereIn.NET-lab2.dll
