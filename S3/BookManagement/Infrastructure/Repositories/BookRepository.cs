@@ -27,9 +27,9 @@ namespace Infrastructure.Repositories
             await context.SaveChangesAsync();
         }
 
-        public Task<IEnumerable<Book>> GetAllAsync()
+        public async Task<IEnumerable<Book>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await context.Books.ToListAsync();
         }
 
         public async Task<Book> GetByIdAsync(Guid id)

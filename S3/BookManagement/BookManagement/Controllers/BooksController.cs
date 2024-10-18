@@ -24,13 +24,21 @@ namespace BookManagement.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<BookDto>> GetBookById([FromQuery] GetBookByIdQuery query)
+        public async Task<ActionResult<IEnumerable<BookDto>>> GetAllAsyncBook([FromQuery] GetAllBookQuery command)
         {
+            var books = await mediator.Send(command);
+            return Ok(books);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<BookDto>> GetBookById(Guid id)
+        {
+            var query = new GetBookByIdQuery { Id = id };
             return await mediator.Send(query);
         }
 
         [HttpDelete]
-        public async Task<ActionResult<Guid>> DeleteBook([FromQuery] DeleteBookByIdCommand command)
+        public async Task<ActionResult<Guid>> DeleteBook(DeleteBookByIdCommand command)
         {
             return await mediator.Send(command);
         }
